@@ -1,4 +1,4 @@
 # Ogre
-<em>Ogre tutorial<em>
+<strong>Ogre tutorial<strong>
 <br><br>
 Simple Ogre examples
